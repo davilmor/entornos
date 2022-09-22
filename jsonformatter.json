@@ -62,4 +62,22 @@
     "reto": true,
     "modo": 3
   },
+  {
+    "id": 8,
+    "texto": "prueba 1",
+    "duracion": 2,
+    "sexo": "Unisex",
+    "tipo": "atrevimiento",
+    "reto": true,
+    "modo": 3
+  },
+  {
+    "id": 9,
+    "texto": "prueba b",
+    "duracion": 2,
+    "sexo": "Unisex",
+    "tipo": "atrevimiento",
+    "reto": true,
+    "modo": 3
+  }
 ]
