@@ -79,5 +79,14 @@
     "tipo": "atrevimiento",
     "reto": true,
     "modo": 3
+  },
+  {
+    "id": 10,
+    "texto": "prueba diferente",
+    "duracion": 2,
+    "sexo": "Unisex",
+    "tipo": "atrevimiento",
+    "reto": true,
+    "modo": 3
   }
 ]
